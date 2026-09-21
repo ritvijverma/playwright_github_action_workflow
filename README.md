@@ -58,7 +58,10 @@ Test Result
 
 ## Purpose
 
-The purpose of this project is to demonstrate the basic integration of **Playwright E2E testing with GitHub Actions CI**.
+The purpose of this project is to demonstrate the basic integration of **Playwright E2E testing with GitHub Actions CI
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/8fe679eb-f6cb-4d77-9ab3-0c9ca9dd15c5" />
+
 
 ## 🚀 More Coming Soon...
 
