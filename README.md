@@ -60,3 +60,7 @@ Test Result
 
 The purpose of this project is to demonstrate the basic integration of **Playwright E2E testing with GitHub Actions CI**.
 
+## 🚀 More Coming Soon...
+
+More Playwright tests and GitHub Actions examples coming soon!
+
